@@ -33,3 +33,5 @@ export default function Home() {
     </div>
   );
 }
+
+//pages/index.tsx doesn't contain: ["const router = useRouter();"]
