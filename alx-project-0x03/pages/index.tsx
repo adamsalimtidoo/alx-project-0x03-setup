@@ -35,3 +35,5 @@ export default function Home() {
 }
 
 //pages/index.tsx doesn't contain: ["const router = useRouter();"]
+
+// - pages/index.tsx doesn't contain: ["import { PageRouteProps }"]
