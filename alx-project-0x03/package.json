@@ -25,3 +25,5 @@
     "@eslint/eslintrc": "^3"
   }
 }
+
+//package.json doesn't contain: ["react-icons"]
